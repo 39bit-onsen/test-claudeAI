@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Noto Serif JP", "Hiragino Mincho ProN", "Yu Mincho", serif;
+  color: #2d2a26;
+  background-color: #f3ecdf;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
